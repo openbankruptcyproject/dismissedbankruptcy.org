@@ -11,23 +11,22 @@
 </script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Bankruptcy Dismissed -- What Happens Now? | dismissedbankruptcy.org</title>
-<meta name="description" content="Free guide to what happens when a bankruptcy case is dismissed. Learn the difference between dismissal and discharge, consequences of dismissal, refiling options, and how to protect yourself.">
-<meta name="keywords" content="bankruptcy dismissed, dismissal vs discharge, bankruptcy case dismissed, refile after dismissal, 362(c)(3), automatic stay after dismissal, Chapter 13 dismissal rate">
+<title>Dismissed Bankruptcy -- What Now? | dismissedbankruptcy.org</title>
+<meta name="description" content="Understanding your options after a bankruptcy case is dismissed">
+<meta name="keywords" content="dismissed bankruptcy -- what now?, bankruptcy, dismissedbankruptcy">
 <link rel="canonical" href="https://dismissedbankruptcy.org/">
-<link rel="alternate" hreflang="en" href="https://dismissedbankruptcy.org/">
 
 <!-- Open Graph -->
-<meta property="og:title" content="Bankruptcy Dismissed -- What Happens Now?">
-<meta property="og:description" content="Free guide to what happens when a bankruptcy case is dismissed. The difference between dismissal and discharge, consequences, refiling options, and how to protect yourself.">
+<meta property="og:title" content="Dismissed Bankruptcy -- What Now?">
+<meta property="og:description" content="Understanding your options after a bankruptcy case is dismissed">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://dismissedbankruptcy.org/">
 <meta property="og:site_name" content="dismissedbankruptcy.org">
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Bankruptcy Dismissed -- What Happens Now?">
-<meta name="twitter:description" content="Free guide to what happens when a bankruptcy case is dismissed. The difference between dismissal and discharge, consequences, refiling options, and how to protect yourself.">
+<meta name="twitter:title" content="Dismissed Bankruptcy -- What Now?">
+<meta name="twitter:description" content="Understanding your options after a bankruptcy case is dismissed">
 
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="manifest" href="/manifest.json">
@@ -45,17 +44,57 @@
     "https://automaticstay.org",
     "https://meanstest.org",
     "https://341meeting.org",
+    "https://relieffromstay.org",
+    "https://dischargeinjunction.org",
+    "https://dischargeinjunction.com",
     "https://523a.org",
     "https://109g.org",
+    "https://727a8.org",
     "https://727a8.com",
-    "https://relieffromstay.org",
-    "https://dischargeinjunction.com",
+    "https://prosedebtors.org",
+    "https://bankruptcymill.org",
+    "https://bankruptcymill.com",
+    "https://whatischapter7.com",
+    "https://whatischapter7.org",
+    "https://chapter13plan.org",
+    "https://lienstripping.org",
+    "https://nondischargeable.org",
+    "https://bankruptcyfreshstart.org",
+    "https://reaffirmationagreement.org",
     "https://dischargebar.org",
+    "https://section1328.org",
+    "https://bankruptcytaxes.org",
     "https://dismissedbankruptcy.org",
-    "https://prosedebtors.org"
+    "https://serialfiler.org",
+    "https://codebtorstay.org",
+    "https://bankruptcyhardship.org",
+    "https://voluntarypetition.org"
   ]
 }
 </script>
+
+<!-- BreadcrumbList Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Network",
+      "item": "https://1328f.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Dismissed Bankruptcy -- What Now?",
+      "item": "https://dismissedbankruptcy.org/"
+    }
+  ]
+}
+</script>
+
 <style>
   :root {
     --bg: #0d1117;
@@ -66,6 +105,7 @@
     --accent: #58a6ff;
     --green: #3fb950;
     --red: #f85149;
+    --yellow: #e3a835;
   }
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
@@ -76,148 +116,48 @@
   }
   a { color: var(--accent); text-decoration: none; }
   a:hover { text-decoration: underline; }
-  a:focus-visible, button:focus-visible {
-    outline: 2px solid var(--accent);
-    outline-offset: 2px;
-  }
-  .skip-link {
-    position: absolute; left: -9999px; top: auto;
-    width: 1px; height: 1px; overflow: hidden; z-index: 9999;
-    padding: 1rem; background: #238636; color: #fff;
-    font-weight: 600; text-decoration: none;
-  }
-  .skip-link:focus {
-    position: fixed; top: 10px; left: 10px;
-    width: auto; height: auto; overflow: visible;
-  }
-  nav {
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
-    padding: 0.75rem 2rem;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-  }
-  nav .site-name {
-    color: #f0f6fc;
-    font-weight: 700;
-    font-size: 1.1rem;
-    text-decoration: none;
-  }
+  a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; z-index: 9999; padding: 1rem; background: #238636; color: #fff; font-weight: 600; text-decoration: none; }
+  .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; }
+  nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
   nav .site-name:hover { text-decoration: none; color: var(--accent); }
   .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
   .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
   .nav-links a:hover { color: var(--accent); text-decoration: none; }
   .nav-links a.active { color: var(--accent); font-weight: 600; }
-  .hamburger {
-    display: none; background: none; border: none; color: var(--text);
-    font-size: 1.5rem; cursor: pointer; padding: 0.25rem;
-  }
-  header {
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
-    padding: 3rem 2rem;
-    text-align: center;
-  }
-  header h1 {
-    color: #f0f6fc;
-    font-size: 2rem;
-    margin-bottom: 0.75rem;
-  }
+  .hamburger { display: none; background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer; padding: 0.25rem; }
+  header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; }
   header h1 .accent { color: var(--accent); }
-  header .subtitle {
-    color: var(--text-muted);
-    font-size: 1.05rem;
-    max-width: 700px;
-    margin: 0 auto;
-  }
+  header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
+  .breadcrumb { max-width: 820px; margin: 1rem auto 0; padding: 0 1.5rem; font-size: 0.85rem; color: var(--text-muted); }
+  .breadcrumb a { color: var(--text-muted); }
+  .breadcrumb a:hover { color: var(--accent); }
   main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
-  .content-section {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    padding: 2rem;
-    margin-bottom: 1.5rem;
-  }
-  .content-section h2 {
-    color: #f0f6fc;
-    font-size: 1.3rem;
-    margin-bottom: 1rem;
-    padding-bottom: 0.5rem;
-    border-bottom: 1px solid var(--border);
-  }
-  .content-section p {
-    color: var(--text);
-    margin-bottom: 0.75rem;
-    font-size: 0.95rem;
-  }
-  .content-section ul {
-    margin: 0.5rem 0 1rem 1.5rem;
-    font-size: 0.95rem;
-    color: var(--text);
-  }
-  .content-section ul li {
-    margin-bottom: 0.4rem;
-  }
-  .highlight-box {
-    background: #21262d;
-    border-left: 3px solid var(--accent);
-    padding: 1rem 1.25rem;
-    border-radius: 0 6px 6px 0;
-    margin: 1rem 0;
-  }
-  .highlight-box.success { border-left-color: var(--green); }
-  .highlight-box.warning { border-left-color: var(--red); }
-  .highlight-box p { margin-bottom: 0.5rem; }
-  .highlight-box p:last-child { margin-bottom: 0; }
-  .cta-box {
-    background: var(--surface);
-    border: 1px solid var(--accent);
-    border-radius: 6px;
-    padding: 1.5rem 2rem;
-    text-align: center;
-    margin-bottom: 1.5rem;
-  }
-  .cta-box p { font-size: 0.95rem; margin-bottom: 0.75rem; }
-  .cta-box a.btn {
-    display: inline-block;
-    background: #238636;
-    color: #fff;
-    padding: 0.6rem 1.5rem;
-    border-radius: 6px;
-    font-weight: 600;
-    font-size: 0.95rem;
-    text-decoration: none;
-  }
-  .cta-box a.btn:hover { background: #2ea043; text-decoration: none; }
-  .network-footer {
-    background: var(--surface);
-    border-top: 1px solid var(--border);
-    padding: 2rem;
-    text-align: center;
-    margin-top: 3rem;
-  }
-  .network-footer p {
-    color: var(--text-muted);
-    font-size: 0.85rem;
-    margin-bottom: 0.5rem;
-  }
-  .network-footer .links {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 1rem;
-    margin-top: 0.75rem;
-  }
+  .content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
+  .content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
+  .content-section p:last-child { margin-bottom: 0; }
+  .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .green-box p { margin-bottom: 0.5rem; }
+  .green-box p:last-child { margin-bottom: 0; }
+  .coming-soon { display: inline-block; background: var(--yellow); color: #0d1117; font-size: 0.75rem; font-weight: 700; padding: 0.2rem 0.6rem; border-radius: 4px; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem; }
+  .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; text-align: center; }
+  .cta-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 0.75rem; }
+  .cta-box p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem; }
+  .cta-box .cta-links { display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; }
+  .cta-box .cta-links a { display: inline-block; padding: 0.6rem 1.5rem; border-radius: 6px; font-weight: 600; font-size: 0.95rem; transition: background 0.2s; }
+  .cta-links .primary-btn { background: #238636; color: #fff; }
+  .cta-links .primary-btn:hover { background: #2ea043; text-decoration: none; }
+  .cta-links .secondary-btn { background: var(--border); color: var(--text); }
+  .cta-links .secondary-btn:hover { background: #484f58; text-decoration: none; }
+  .network-footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
+  .network-footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+  .network-footer .links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 0.75rem; }
   .network-footer .links a { color: var(--text-muted); font-size: 0.85rem; }
   .network-footer .links a:hover { color: var(--accent); }
-  .network-footer .disclaimer {
-    margin-top: 1rem;
-    font-size: 0.75rem;
-    color: var(--text-muted);
-  }
+  .network-footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
   @media (max-width: 600px) {
     header h1 { font-size: 1.5rem; }
     main { padding: 1.5rem 1rem; }
@@ -226,141 +166,87 @@
     .hamburger { display: block; }
     .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
     .nav-links.open { display: flex; }
+    .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
   }
 </style>
-
 </head>
 <body>
 
 <a href="#main-content" class="skip-link">Skip to main content</a>
 
-<nav aria-label="Main navigation">
-  <a href="/" class="site-name">dismissedbankruptcy.org</a>
-  <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
+<nav role="navigation" aria-label="Site navigation">
+  <a href="https://dismissedbankruptcy.org/" class="site-name">dismissedbankruptcy.org</a>
+  <button class="hamburger" aria-label="Toggle navigation menu" onclick="document.querySelector('.nav-links').classList.toggle('open')">&#9776;</button>
   <div class="nav-links">
     <a href="https://1328f.com">1328f.com</a>
     <a href="https://1328f.org">1328f.org</a>
     <a href="https://automaticstay.org">automaticstay.org</a>
     <a href="https://meanstest.org">meanstest.org</a>
     <a href="https://341meeting.org">341meeting.org</a>
+    <a href="https://relieffromstay.org">relieffromstay.org</a>
+    <a href="https://dischargeinjunction.org">dischargeinjunction.org</a>
+    <a href="https://dischargeinjunction.com">dischargeinjunction.com</a>
     <a href="https://523a.org">523a.org</a>
     <a href="https://109g.org">109g.org</a>
+    <a href="https://727a8.org">727a8.org</a>
     <a href="https://727a8.com">727a8.com</a>
-    <a href="https://relieffromstay.org">relieffromstay.org</a>
-    <a href="https://dischargeinjunction.com">dischargeinjunction.com</a>
-    <a href="https://dischargebar.org">dischargebar.org</a>
-    <a href="https://dismissedbankruptcy.org" class="active">dismissedbankruptcy.org</a>
     <a href="https://prosedebtors.org">prosedebtors.org</a>
+    <a href="https://bankruptcymill.org">bankruptcymill.org</a>
+    <a href="https://bankruptcymill.com">bankruptcymill.com</a>
+    <a href="https://whatischapter7.com">whatischapter7.com</a>
+    <a href="https://whatischapter7.org">whatischapter7.org</a>
+    <a href="https://chapter13plan.org">chapter13plan.org</a>
+    <a href="https://lienstripping.org">lienstripping.org</a>
+    <a href="https://nondischargeable.org">nondischargeable.org</a>
+    <a href="https://bankruptcyfreshstart.org">bankruptcyfreshstart.org</a>
+    <a href="https://reaffirmationagreement.org">reaffirmationagreement.org</a>
+    <a href="https://dischargebar.org">dischargebar.org</a>
+    <a href="https://section1328.org">section1328.org</a>
+    <a href="https://bankruptcytaxes.org">bankruptcytaxes.org</a>
+    <a href="https://dismissedbankruptcy.org" class="active">dismissedbankruptcy.org</a>
+    <a href="https://serialfiler.org">serialfiler.org</a>
+    <a href="https://codebtorstay.org">codebtorstay.org</a>
+    <a href="https://bankruptcyhardship.org">bankruptcyhardship.org</a>
+    <a href="https://voluntarypetition.org">voluntarypetition.org</a>
   </div>
 </nav>
 
 <header>
-  <h1><span class="accent">Bankruptcy Dismissed</span> -- What Happens Now?</h1>
-  <p class="subtitle">Your case was dismissed. That does not mean your debts are gone. This guide explains what dismissal really means, how it differs from discharge, and what options you have going forward.</p>
+  <h1><span class="accent">Dismissed Bankruptcy -- What Now?</span></h1>
+  <p class="subtitle">Understanding your options after a bankruptcy case is dismissed</p>
 </header>
+
+<div class="breadcrumb" aria-label="Breadcrumb">
+  <a href="https://1328f.com/">Network</a> &rsaquo; Dismissed Bankruptcy -- What Now?
+</div>
 
 <main id="main-content">
 
-  <div class="highlight-box success">
-    <p><strong>Part of the Bankruptcy Transparency Network</strong> -- free, open-source bankruptcy information. No ads, no lead generation, no strings attached.</p>
-  </div>
-
   <div class="content-section">
-    <h2>Dismissed vs. Discharged -- The Critical Distinction</h2>
-    <p>These two words sound similar but mean completely different things. Confusing them can lead to devastating financial mistakes.</p>
-    <p><strong>Discharged</strong> means your bankruptcy case was successful. The court entered an order permanently eliminating qualifying debts. Creditors can never collect on discharged debts again. This is the outcome you want.</p>
-    <p><strong>Dismissed</strong> means your bankruptcy case was thrown out. It is as if the case never happened. Your debts are not eliminated. Creditors can immediately resume collection activity -- lawsuits, garnishments, foreclosures, repossessions. The automatic stay that was protecting you is gone.</p>
-    <div class="highlight-box warning">
-      <p><strong>Key point:</strong> Dismissal is not a partial win. It is the worst possible outcome in bankruptcy. You paid attorney fees, filing fees, and went through months of process -- and you are right back where you started, often in a worse position because of the time lost.</p>
+    <span class="coming-soon">Coming Soon</span>
+    <h2>About This Site</h2>
+    <p>A dismissed bankruptcy case is one that ends without a discharge. Dismissal can happen for many reasons: failure to make plan payments, failure to file required documents, failure to attend the 341 meeting, or voluntary dismissal by the debtor. When a case is dismissed, the automatic stay ends, and creditors can resume collection activity.</p>
+    <p>This site will explain what happens after dismissal, what your options are, and how dismissal affects future filings. We will cover the 180-day refiling bar under Section 109(g), the reduced automatic stay provisions for repeat filers under Section 362(c)(3) and (c)(4), and strategies for debtors who need to refile after a dismissal.</p>
+    <p>We will also address the most common reasons cases get dismissed, how to avoid dismissal in a new case, and the critical distinction between dismissal with prejudice (which may bar refiling entirely) and dismissal without prejudice (which typically allows refiling after addressing the original deficiency).</p>
+
+    <div class="green-box">
+      <p><strong>Part of the Bankruptcy Transparency Network</strong> -- a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.</p>
     </div>
-  </div>
-
-  <div class="content-section">
-    <h2>Why Cases Get Dismissed</h2>
-    <p>Bankruptcy cases are dismissed for a variety of reasons. Some are the debtor's fault, some are the attorney's fault, and some are a combination. The most common reasons include:</p>
-    <ul>
-      <li><strong>Missing documents</strong> -- failure to file schedules, statements, or the Chapter 13 plan within required deadlines</li>
-      <li><strong>Failure to make plan payments</strong> -- in Chapter 13, falling behind on monthly trustee payments is the #1 cause of dismissal</li>
-      <li><strong>Failure to attend the 341 meeting</strong> -- the meeting of creditors is mandatory; missing it without rescheduling leads to dismissal</li>
-      <li><strong>Failure to complete credit counseling</strong> -- both pre-filing credit counseling and post-filing debtor education are required</li>
-      <li><strong>Means test failure</strong> -- in Chapter 7, if your income is too high to pass the <a href="https://meanstest.org">means test</a>, the case may be dismissed or converted</li>
-      <li><strong>Trustee motion to dismiss</strong> -- the Chapter 13 trustee can move to dismiss for plan defaults, unfeasibility, or bad faith</li>
-      <li><strong>Failure to pay filing fees</strong> -- if the court granted installment payments and you fall behind, the case is dismissed</li>
-    </ul>
-    <p>In high-volume bankruptcy practices, a disproportionate number of dismissals stem from attorney neglect -- failure to file documents, failure to communicate with clients, or filing cases that were never viable in the first place.</p>
-  </div>
-
-  <div class="content-section">
-    <h2>Consequences of Dismissal</h2>
-    <p>When a bankruptcy case is dismissed, several things happen immediately:</p>
-    <ul>
-      <li><strong>The automatic stay lifts.</strong> Creditors can resume all collection activity -- garnishments, lawsuits, foreclosures, repossessions, phone calls, and letters.</li>
-      <li><strong>All debts remain.</strong> Nothing was discharged. You owe everything you owed before filing, potentially plus additional interest and fees that accrued during the case.</li>
-      <li><strong>Attorney fees are gone.</strong> Most bankruptcy attorneys charge upfront. If your case is dismissed, you generally do not get a refund.</li>
-      <li><strong>Filing fees are gone.</strong> The court filing fee ($338 for Chapter 7, $313 for Chapter 13) is not refunded on dismissal.</li>
-    </ul>
-    <p>But the most serious consequences affect your ability to refile:</p>
-    <div class="highlight-box">
-      <p><strong>Section 362(c)(3):</strong> If you refile within one year of a dismissal, the automatic stay only lasts 30 days unless you file a motion and prove your new case was filed in good faith. This leaves you exposed to creditor action during a critical period.</p>
-    </div>
-    <div class="highlight-box warning">
-      <p><strong>Section 362(c)(4):</strong> If you had two or more cases dismissed in the prior year, your new filing gets <em>no automatic stay at all</em> unless you file a motion within 30 days and convince the court to impose the stay. This is an extremely difficult position.</p>
-    </div>
-    <p>These stay limitations are one of the most harmful consequences of dismissal. They create a trap: the people most likely to need bankruptcy protection are the ones least likely to get it after a dismissal.</p>
-  </div>
-
-  <div class="content-section">
-    <h2>Chapter 13 Dismissal Rates</h2>
-    <div class="highlight-box warning">
-      <p><strong>Nationally, roughly 67% of Chapter 13 cases do not end in discharge.</strong> That means two out of every three people who file Chapter 13 -- committing to a 3-to-5-year repayment plan -- never make it to the finish line. Their cases are dismissed or converted, and they walk away with nothing.</p>
-    </div>
-    <p>But dismissal rates vary dramatically by attorney. Some attorneys consistently achieve discharge rates above 70%. Others have dismissal rates exceeding 80% -- meaning fewer than 1 in 5 of their clients ever receive a discharge.</p>
-    <p>If your case was dismissed, it is worth checking whether the problem was your specific circumstances or your attorney's track record. An attorney with an unusually high dismissal rate may be running a high-volume practice that prioritizes filing fees over client outcomes.</p>
-    <div class="cta-box">
-      <p>Check any attorney's Chapter 13 discharge rate -- free, no sign-up required:</p>
-      <a href="https://1328f.com" class="btn">Free Attorney Screener at 1328f.com</a>
-    </div>
-  </div>
-
-  <div class="content-section">
-    <h2>Can I Refile After Dismissal?</h2>
-    <p>Yes -- in most cases, you can refile after a dismissal. But there are important limitations to understand:</p>
-    <ul>
-      <li><strong>Section 109(g) -- the 180-day bar:</strong> If your case was dismissed because you willfully failed to obey court orders, or because you requested dismissal after a creditor filed a motion for relief from stay, you cannot refile for 180 days. Learn more at <a href="https://109g.org">109g.org</a>.</li>
-      <li><strong>Discharge bars under Section 1328(f):</strong> If you received a discharge in a prior case, there are waiting periods before you can receive another discharge. Chapter 7 to Chapter 7: 8 years. Chapter 7 to Chapter 13: 4 years. Chapter 13 to Chapter 13: 2 years. Learn more at <a href="https://dischargebar.org">dischargebar.org</a>.</li>
-      <li><strong>Reduced automatic stay:</strong> As described above, Sections 362(c)(3) and 362(c)(4) severely limit the automatic stay for repeat filers. This can make refiling ineffective if you need immediate protection from creditors.</li>
-    </ul>
-    <p>If none of these bars apply to you, you are generally free to refile immediately. However, refiling with the same attorney who let your case get dismissed may not produce a different result. Consider consulting a different attorney -- and check their track record first.</p>
-  </div>
-
-  <div class="content-section">
-    <h2>Voluntary vs. Involuntary Dismissal</h2>
-    <p><strong>Voluntary dismissal</strong> means the debtor asked the court to dismiss the case. In Chapter 13, the debtor has an absolute right to dismiss under Section 1307(b) -- the court must grant it. In Chapter 7, the debtor can request dismissal, but the court may deny it if creditors would be prejudiced. After conversion from Chapter 7 to Chapter 13, the right to voluntarily dismiss is less clear and may depend on your jurisdiction.</p>
-    <p><strong>Involuntary dismissal</strong> means the court dismissed the case over the debtor's objection. This typically happens when the trustee files a motion to dismiss for cause -- missed payments, missing documents, failure to appear, or bad faith. The court can also dismiss on its own motion (sua sponte) if deadlines are not met.</p>
-    <p>The distinction matters because voluntary dismissal after a creditor files a motion for relief from stay can trigger the 180-day refiling bar under <a href="https://109g.org">Section 109(g)</a>. If you are considering requesting a voluntary dismissal, understand the consequences first.</p>
-  </div>
-
-  <div class="content-section">
-    <h2>What To Do Next</h2>
-    <p>If your bankruptcy case was dismissed, you have several options depending on your situation:</p>
-    <ul>
-      <li><strong>Refile with a better attorney.</strong> If your case was dismissed due to attorney neglect, a competent attorney may be able to get you through the process successfully. Screen attorneys first at <a href="https://1328f.com">1328f.com</a>.</li>
-      <li><strong>File pro se.</strong> Representing yourself in bankruptcy is difficult but not impossible, especially in Chapter 7. Resources for pro se debtors are available at <a href="https://prosedebtors.org">prosedebtors.org</a>.</li>
-      <li><strong>Consider a different chapter.</strong> If Chapter 13 was dismissed because you could not maintain payments, Chapter 7 may be a better fit -- if you qualify under the <a href="https://meanstest.org">means test</a>.</li>
-      <li><strong>Negotiate directly with creditors.</strong> Outside of bankruptcy, you may be able to negotiate payment plans, settlements, or hardship programs.</li>
-      <li><strong>Consult a malpractice attorney.</strong> If your case was dismissed due to attorney negligence -- missed deadlines, failure to file documents, failure to communicate -- you may have a legal malpractice claim.</li>
-    </ul>
   </div>
 
   <div class="cta-box">
-    <p>Check any attorney's track record before hiring. Free, no sign-up required.</p>
-    <a href="https://1328f.com" class="btn">Free Discharge Screener at 1328f.com</a>
+    <h3>Check Your Bankruptcy Discharge Eligibility</h3>
+    <p>Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy discharge.</p>
+    <div class="cta-links">
+      <a href="https://1328f.com" class="primary-btn">Discharge Screener</a>
+      <a href="https://1328f.org" class="secondary-btn">Research Platform</a>
+    </div>
   </div>
 
 </main>
 
 <footer class="network-footer" role="contentinfo">
-  <p><strong>Bankruptcy Transparency Network</strong></p>
+  <p><strong>Part of the Bankruptcy Transparency Network</strong></p>
   <p>Real information, no strings.</p>
   <div class="links">
     <a href="https://1328f.com">1328f.com</a>
@@ -368,15 +254,32 @@
     <a href="https://automaticstay.org">automaticstay.org</a>
     <a href="https://meanstest.org">meanstest.org</a>
     <a href="https://341meeting.org">341meeting.org</a>
+    <a href="https://relieffromstay.org">relieffromstay.org</a>
+    <a href="https://dischargeinjunction.org">dischargeinjunction.org</a>
+    <a href="https://dischargeinjunction.com">dischargeinjunction.com</a>
     <a href="https://523a.org">523a.org</a>
     <a href="https://109g.org">109g.org</a>
+    <a href="https://727a8.org">727a8.org</a>
     <a href="https://727a8.com">727a8.com</a>
-    <a href="https://relieffromstay.org">relieffromstay.org</a>
-    <a href="https://dischargeinjunction.com">dischargeinjunction.com</a>
-    <a href="https://dischargebar.org">dischargebar.org</a>
-    <a href="https://dismissedbankruptcy.org">dismissedbankruptcy.org</a>
     <a href="https://prosedebtors.org">prosedebtors.org</a>
-    <a href="https://ko-fi.com/ilikemath9999">Ko-fi</a>
+    <a href="https://bankruptcymill.org">bankruptcymill.org</a>
+    <a href="https://bankruptcymill.com">bankruptcymill.com</a>
+    <a href="https://whatischapter7.com">whatischapter7.com</a>
+    <a href="https://whatischapter7.org">whatischapter7.org</a>
+    <a href="https://chapter13plan.org">chapter13plan.org</a>
+    <a href="https://lienstripping.org">lienstripping.org</a>
+    <a href="https://nondischargeable.org">nondischargeable.org</a>
+    <a href="https://bankruptcyfreshstart.org">bankruptcyfreshstart.org</a>
+    <a href="https://reaffirmationagreement.org">reaffirmationagreement.org</a>
+    <a href="https://dischargebar.org">dischargebar.org</a>
+    <a href="https://section1328.org">section1328.org</a>
+    <a href="https://bankruptcytaxes.org">bankruptcytaxes.org</a>
+    <a href="https://dismissedbankruptcy.org">dismissedbankruptcy.org</a>
+    <a href="https://serialfiler.org">serialfiler.org</a>
+    <a href="https://codebtorstay.org">codebtorstay.org</a>
+    <a href="https://bankruptcyhardship.org">bankruptcyhardship.org</a>
+    <a href="https://voluntarypetition.org">voluntarypetition.org</a>
+    <a href="https://ko-fi.com/bankruptcytransparency">Ko-fi</a>
     <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
   </div>
   <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.</p>
