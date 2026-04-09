@@ -1,18 +1,24 @@
-# dismissedbankruptcy.org
+# Dismissed Bankruptcy: What Happens Next? Free Guide [2026]
+> Free Dismissed bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect i...
 
-> Guide to dismissed bankruptcy cases -- what happens, refiling, and your options.
+## About
+dismissedbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-dismissedbankruptcy.org is a free, open-source educational resource about dismissed bankruptcy cases. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://dismissedbankruptcy.org/: Overview of dismissed bankruptcy -- what it means and what comes next
-- https://dismissedbankruptcy.org/reasons-for-dismissal.html: Common reasons bankruptcy cases get dismissed
-- https://dismissedbankruptcy.org/dismissed-vs-discharged.html: Dismissed vs discharged -- understanding the critical difference
-- https://dismissedbankruptcy.org/can-i-refile.html: Can I refile after dismissal -- waiting periods and restrictions
-- https://dismissedbankruptcy.org/what-happens-next.html: What happens after your case is dismissed
-- https://dismissedbankruptcy.org/employer-impact.html: Does a dismissed bankruptcy affect your employment
+## Key Pages
+- My Bankruptcy Was Dismissed -- Can I File Again?: https://dismissedbankruptcy.org/can-i-refile.html
+- Dismissed vs Discharged in Bankruptcy -- The Critical Difference: https://dismissedbankruptcy.org/dismissed-vs-discharged.html
+- Does a Dismissed Bankruptcy Affect My Job?: https://dismissedbankruptcy.org/employer-impact.html
+- Can an Employer See a Dismissed Bankruptcy?: https://dismissedbankruptcy.org/employer-see.html
+- Dismissed Bankruptcy: What Happens Next? Free Guide: https://dismissedbankruptcy.org/
+- Protecting Yourself After Bankruptcy Dismissal: https://dismissedbankruptcy.org/protect-yourself.html
+- Why Bankruptcy Cases Get Dismissed -- Common Causes: https://dismissedbankruptcy.org/reasons-for-dismissal.html
+- Waiting Period After Dismissed Bankruptcy: https://dismissedbankruptcy.org/waiting-period.html
+- What Happens After Your Bankruptcy Is Dismissed?: https://dismissedbankruptcy.org/what-happens-next.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).

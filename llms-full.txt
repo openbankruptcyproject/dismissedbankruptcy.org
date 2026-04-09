@@ -1,0 +1,2279 @@
+# dismissedbankruptcy.org -- Full Content
+
+This file contains the full text content of all pages on dismissedbankruptcy.org.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## My Bankruptcy Was Dismissed -- Can I File Again?
+Source: https://dismissedbankruptcy.org/can-i-refile.html
+
+Skip to main content
+
+☰ Menu
+
+Home
+|
+Dismissed vs Discharged
+|
+Can I Refile?
+|
+Reasons for Dismissal
+|
+What Happens Next
+|
+Employer Impact
+|
+Eligibility Screener
+
+My Bankruptcy Was Dismissed -- Can I File Again?
+
+Understanding refiling restrictions after dismissal
+
+Not legal advice. This site provides general educational information about bankruptcy law. Consult with a licensed attorney for advice about your specific situation.
+
+The short answer for most people is yes, you can file again. But the details matter. Depending on why your case was dismissed and how recently, you may face a waiting period, and your new case may have reduced automatic stay protection. This guide walks you through all the rules.
+
+The 180-Day Filing Bar -- Section 109(g)
+
+Section 109(g) of the Bankruptcy Code is the main statute that restricts refiling after a dismissal. It imposes a 180-day bar in two specific situations:
+
+109(g)(1) -- Voluntary Dismissal After Stay Relief Motion
+
+If your case was dismissed at your request (voluntary dismissal) after a creditor filed a motion for relief from the automatic stay, you cannot file a new bankruptcy case for 180 days. The purpose is to prevent "serial filing" -- repeatedly filing and dismissing cases solely to invoke the automatic stay and stall creditors.
+
+109(g)(2) -- Willful Failure to Comply
+
+If the court dismissed your case because you willfully failed to abide by orders of the court, or you willfully failed to appear before the court in proper prosecution of the case, you cannot refile for 180 days. The key word is "willful" -- a good faith mistake or an inability to comply (as opposed to a refusal to comply) generally does not trigger this bar.
+
+When the 180-Day Bar Does NOT Apply
+
+The 180-day bar does not apply to most dismissals. If your case was dismissed for any of these common reasons, you can typically refile immediately:
+
+Failure to file schedules or statements on time (unless the court specifically found willful failure)
+
+Failure to make plan payments due to job loss or financial hardship
+
+Trustee motion to dismiss for plan feasibility issues
+
+Failure to pass the means test (you can refile under a different chapter)
+
+Missing the 341 meeting due to illness, emergency, or lack of notice
+
+Your attorney failed to file documents on your behalf
+
+Read the dismissal order carefully. If the court made a specific finding of willful failure, consult an attorney about your options. If the order does not contain such a finding, the 180-day bar likely does not apply.
+
+Reduced Stay Protection -- Section 362(c)(3)
+
+Even if you can refile immediately, there is an important catch. Section 362(c)(3) provides that if you file a new case within one year of a prior dismissal, the automatic stay in your new case expires after only 30 days unless you file a motion asking the court to extend it.
+
+This is a significant limitation. Here is what it means in practice:
+
+Scenario
+Automatic Stay Duration
+Action Required
+
+First filing (no prior dismissals)
+Full duration of the case
+None
+
+Refile within 1 year of one dismissal
+30 days only
+File motion to extend stay within 30 days
+
+Refile after 2+ dismissals in past year
+No stay at all
+File motion to impose stay
+
+The 30-Day Stay Extension Motion
+
+If Section 362(c)(3) applies to your new case, you must file a motion to extend the automatic stay within the first 30 days. The court will grant the motion if you demonstrate that your new case was filed in good faith. Factors the court considers include:
+
+Whether the circumstances that led to the prior dismissal have changed
+
+Whether you have the ability to complete a plan this time
+
+Whether you are filing solely to delay creditors
+
+Whether your financial situation has genuinely changed since the last case
+
+If you do not file this motion within 30 days, the automatic stay terminates automatically and cannot be reinstated. Your attorney should file this motion at the same time as the new petition or within the first few days of the case.
+
+Section 362(c)(4) -- No Stay at All
+
+If you have had two or more bankruptcy cases pending and dismissed within the past year, Section 362(c)(4) provides that your new filing does not trigger the automatic stay at all. You must affirmatively ask the court to impose it, and the burden is on you to show good faith.
+
+This is rare but serious. If you are in this situation, you need an attorney to file the motion to impose the stay simultaneously with your petition.
+
+Refiling in a Different Chapter
+
+A dismissal does not lock you into the same chapter. If your Chapter 13 case was dismissed, you can refile under Chapter 7 (if you qualify under the means test) or Chapter 13. Similarly, a dismissed Chapter 7 can be refiled as Chapter 13.
+
+The refiling restrictions under Sections 109(g) and 362(c)(3) apply regardless of which chapter you choose. However, the discharge eligibility rules under Sections 1328(f) and 727(a)(8) only apply to discharge, not filing. Since a dismissed case did not result in a discharge, those discharge bars are not triggered by the prior case.
+
+For a comprehensive look at all the time bars across chapters, see the FileBankruptcyAgain.com guide and the 1328f.com eligibility screener.
+
+Strategic Considerations for Refiling
+
+Fix What Went Wrong
+
+Before you refile, understand why your case was dismissed and fix the underlying problem. If you missed plan payments because the payment was too high, your new plan needs to be more realistic. If you failed to file documents, make sure everything is ready before you file. Filing again with the same problems will produce the same result.
+
+Consider a Different Attorney
+
+If your case was dismissed because your attorney missed deadlines, failed to file documents, or otherwise neglected your case, you should strongly consider hiring a different attorney. Check your attorney's track record using public PACER data before hiring anyone.
+
+Timing Matters
+
+If you can wait more than one year after your dismissal to refile, you avoid the reduced stay protection under Section 362(c)(3) entirely. Your new case will have full automatic stay protection from day one. Weigh this benefit against the urgency of your situation.
+
+Get Your Documents Ready First
+
+One of the most common reasons for dismissal is failure to file required documents. Before you refile, gather everything you will need:
+
+Last six months of pay stubs
+
+Last two years of tax returns
+
+List of all creditors with account numbers and balances
+
+Property valuations
+
+Credit counseling certificate (must be completed within 180 days before filing)
+
+Monthly budget showing income and expenses
+
+Quick Reference: Can I Refile?
+
+Dismissed for missing documents: Yes, usually immediately
+
+Dismissed for missed plan payments: Yes, usually immediately
+
+Voluntary dismissal after stay relief motion: Wait 180 days
+
+Court found willful failure to comply: Wait 180 days
+
+Refiling within 1 year of dismissal: Can file, but reduced stay -- file extension motion immediately
+
+2+ dismissals in past year: Can file, but no stay -- must file motion to impose stay
+
+Not legal advice. This guide is for general educational purposes only. Refiling restrictions depend on the specific facts of your case and the law in your jurisdiction. Consult with a licensed bankruptcy attorney before refiling. Nothing on this site creates an attorney-client relationship.
+
+Related Guides
+
+Bankruptcy Dismissed -- What Now?
+
+Can I File Bankruptcy Again?
+
+File Bankruptcy Again Guide
+
+Bankruptcy Denied -- Next Steps
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Dismissal Rates
+
+Free bankruptcy information guide
+
+dismissalrate.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+© 2026 BankruptcyDismissed.com. Educational resource. Not legal advice.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Home
+Dismissed vs Discharged
+Why Cases Get Dismissed
+What Happens Next
+Employer Impact
+
+Part of the Open Bankruptcy Project:
+1328f.com ·
+1328f.org ·
+FileBankruptcyAgain.com ·
+BankruptcyDismissed.com
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+You May Also Find Helpful
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Relief from Automatic Stay -- relieffromstay.org
+
+---
+
+## Dismissed vs Discharged in Bankruptcy -- The Critical Difference
+Source: https://dismissedbankruptcy.org/dismissed-vs-discharged.html
+
+Skip to main content
+
+☰ Menu
+
+Home
+|
+Dismissed vs Discharged
+|
+Can I Refile?
+|
+Reasons for Dismissal
+|
+What Happens Next
+|
+Employer Impact
+|
+Eligibility Screener
+
+Dismissed vs Discharged -- The Critical Difference
+
+The most commonly confused terms in bankruptcy law
+
+Not legal advice. This site provides general educational information about bankruptcy law. Consult with a licensed attorney for advice about your specific situation.
+
+If you search for information about your bankruptcy case, you will encounter two words that sound almost identical but mean completely opposite things: dismissed and discharged. Confusing them can lead to serious misunderstandings about your legal situation, your debts, and your rights.
+
+This page explains the difference clearly so you know exactly where you stand.
+
+The One-Sentence Difference
+
+Discharged means your qualifying debts are permanently eliminated. You got the relief you filed for.
+
+Dismissed means your case was closed without any debt relief. You owe everything you owed before.
+
+That is the entire difference. Everything else flows from this distinction.
+
+Side-by-Side Comparison
+
+Factor
+Discharged
+Dismissed
+
+Debts eliminated?
+Yes (qualifying debts)
+No -- all debts remain
+
+Creditor collection
+Permanently barred for discharged debts
+Resumes immediately
+
+Automatic stay
+Replaced by permanent discharge injunction
+Lifted immediately upon dismissal
+
+Credit report notation
+"Discharged" or "Completed"
+"Dismissed"
+
+Credit report duration
+7 years (Ch. 13) / 10 years (Ch. 7)
+7 years (Ch. 13) / 10 years (Ch. 7)
+
+Refiling restrictions
+Discharge bars under 1328(f) / 727(a)(8)
+Possible 180-day filing bar under 109(g)
+
+Wage garnishment
+Stopped permanently for discharged debts
+Can resume immediately
+
+Foreclosure
+Mortgage current if plan completed (Ch. 13)
+Can resume immediately
+
+Repossession
+Vehicle retained if plan completed
+Creditor can repossess immediately
+
+Outcome for debtor
+Fresh start achieved
+Back to square one
+
+Why This Confusion Matters
+
+The dismissed/discharged confusion is not just academic. It causes real harm in several ways:
+
+Debtors Who Think They Are Free of Debt
+
+Some people receive a dismissal order and believe their debts have been eliminated. They stop making payments, ignore creditor calls, and are blindsided when a garnishment hits their paycheck or a foreclosure proceeds. If your case was dismissed, you still owe every penny.
+
+Employers and Landlords Who Misread Records
+
+Background checks often show a bankruptcy filing without clearly distinguishing between dismissed and discharged outcomes. An employer or landlord might see "bankruptcy" and not understand that a dismissal means the person did not receive debt relief. Conversely, they might think a dismissal is somehow "better" than a discharge, when in reality a discharge represents the successful completion of the process.
+
+Credit Reporting Errors
+
+Credit bureaus sometimes report a dismissed case as discharged, or vice versa. If your credit report incorrectly shows a discharge when your case was actually dismissed (or the reverse), you have the right to dispute the error under the Fair Credit Reporting Act. Review your credit reports from all three bureaus after your case closes.
+
+How Discharge Works
+
+A discharge is the legal order entered by the bankruptcy court that permanently eliminates your obligation to pay qualifying debts. In Chapter 7, discharge typically occurs about 60 to 90 days after the Section 341 meeting if no one objects. In Chapter 13, discharge occurs after you complete all plan payments over three to five years.
+
+Not all debts can be discharged. Student loans, most tax debts, child support, alimony, and debts arising from fraud are generally non-dischargeable. But for credit cards, medical bills, personal loans, and most other consumer debts, discharge wipes the slate clean.
+
+After discharge, creditors are permanently barred from attempting to collect discharged debts. This protection is called the discharge injunction under Section 524(a). Violating it can result in contempt of court.
+
+How Dismissal Works
+
+A dismissal does none of those things. The court simply closes the case, and you are in the same position you were before filing -- except that you have paid filing fees, possibly attorney fees, and your credit report now shows a bankruptcy filing.
+
+After dismissal:
+
+All debts remain in full
+
+All creditor rights are restored
+
+Any property surrendered during the case may already be gone
+
+Payments made to the Chapter 13 trustee are typically returned to you (minus administrative costs), but this takes time
+
+Your attorney fees are generally not refundable unless negligence caused the dismissal
+
+What About "Closed" Cases?
+
+You might also see the term "closed" on your case. A case can be closed after either a discharge or a dismissal. "Closed" simply means the court considers the case administratively complete. It does not tell you whether you received a discharge. Always check whether the case ended in discharge or dismissal.
+
+The Discharge Bar Connection
+
+Here is where it gets more complex. If your case was discharged, that discharge starts a clock on certain refiling restrictions. Under Section 1328(f), you cannot receive another Chapter 13 discharge for a period of time after a prior discharge (two years after a prior Chapter 13 discharge, four years after a prior Chapter 7 discharge).
+
+If your case was dismissed, these discharge bars do not apply -- because you never received a discharge. However, you may face the filing bars under Sections 109(g) and 362(c)(3) discussed in our refiling guide.
+
+Use the 1328f.com eligibility screener to check whether a prior case creates any bars for your next filing.
+
+How to Check Your Case Status
+
+If you are unsure whether your case was dismissed or discharged:
+
+Check PACER. Search for your case at pacer.uscourts.gov. The docket will show either a "Discharge of Debtor" entry or an "Order of Dismissal" entry.
+
+Check your credit report. Your bankruptcy should be listed with a status of "Discharged" or "Dismissed." Request free reports at annualcreditreport.com.
+
+Contact the court clerk. Call the bankruptcy court clerk's office and provide your case number. They can tell you the disposition.
+
+Ask your attorney. If you had an attorney, they should be able to confirm the outcome.
+
+Not legal advice. This guide is for general educational purposes only. Consult with a licensed bankruptcy attorney for advice about your specific situation. Nothing on this site creates an attorney-client relationship.
+
+Related Guides
+
+Bankruptcy Dismissed -- What Now?
+
+Can I File Bankruptcy Again?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Dismissal Rates
+
+Free bankruptcy information guide
+
+dismissalrate.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+© 2026 BankruptcyDismissed.com. Educational resource. Not legal advice.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Home
+Can I Refile?
+Why Cases Get Dismissed
+What Happens Next
+Employer Impact
+
+Part of the Open Bankruptcy Project:
+1328f.com ·
+1328f.org ·
+FileBankruptcyAgain.com ·
+BankruptcyDismissed.com
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+You May Also Find Helpful
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Relief from Automatic Stay -- relieffromstay.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+---
+
+## Does a Dismissed Bankruptcy Affect My Job?
+Source: https://dismissedbankruptcy.org/employer-impact.html
+
+Skip to main content
+
+☰ Menu
+
+Home
+|
+Dismissed vs Discharged
+|
+Can I Refile?
+|
+Reasons for Dismissal
+|
+What Happens Next
+|
+Employer Impact
+|
+Eligibility Screener
+
+Does a Dismissed Bankruptcy Affect My Job?
+
+Employment protections, credit reports, and hiring discrimination
+
+Not legal advice. This site provides general educational information about bankruptcy law. Consult with a licensed attorney for advice about your specific situation.
+
+One of the most common fears people have after a bankruptcy dismissal is the impact on their job and future employment. The good news is that federal law provides significant protections against bankruptcy-related discrimination. The bad news is that a dismissed bankruptcy filing still appears on your credit report, and the protections have limits.
+
+Section 525 -- Bankruptcy Discrimination Protection
+
+Section 525 of the Bankruptcy Code (11 U.S.C. Section 525) prohibits certain types of discrimination based solely on the fact that a person has filed for bankruptcy, been insolvent, or received a discharge.
+
+Section 525(a) -- Government Employers
+
+A governmental unit may not deny, revoke, suspend, or refuse to renew a license, permit, charter, franchise, or other similar grant, and may not deny employment to, terminate the employment of, or discriminate with respect to employment against a person solely because that person:
+
+Is or has been a debtor in a bankruptcy case
+
+Has been insolvent before or during the case
+
+Has not paid a debt that is dischargeable or was discharged
+
+This protection applies to all government employers at the federal, state, and local level. It covers both current employment and hiring decisions.
+
+Section 525(b) -- Private Employers
+
+A private employer may not terminate the employment of, or discriminate with respect to employment against, an individual who is or has been a debtor in a bankruptcy case solely because of the bankruptcy filing.
+
+Important limitation: Courts have generally interpreted Section 525(b) to protect existing employees from termination but not job applicants from hiring discrimination. This means a private employer likely cannot fire you for filing bankruptcy, but may be able to decline to hire you based on it. This interpretation has been the subject of ongoing legal debate, and some courts have reached different conclusions.
+
+Does Section 525 Apply to Dismissed Cases?
+
+Yes. The statute protects anyone who "is or has been a debtor" in a bankruptcy case. A dismissed case means you were a debtor. The fact that the case was dismissed rather than discharged does not remove the protection. You were a debtor from the moment the petition was filed until the case was closed.
+
+Credit Report Impact
+
+Even though Section 525 provides legal protections, the practical reality is that a bankruptcy filing appears on your credit report and may influence decisions made by employers, landlords, and creditors.
+
+Factor
+Dismissed
+Discharged
+
+Appears on credit report?
+Yes
+Yes
+
+Duration (Chapter 7)
+10 years from filing
+10 years from filing
+
+Duration (Chapter 13)
+7 years from filing
+7 years from filing
+
+Debts eliminated?
+No
+Yes
+
+Credit score impact
+Negative (filing + unresolved debt)
+Negative initially, then improving
+
+The frustrating reality: a dismissed bankruptcy has a worse long-term credit impact than a discharged one. With a discharge, your debts are eliminated and you can begin rebuilding credit immediately. With a dismissal, you still carry all the debt plus the negative record of having filed. Your credit report shows both the filing and the ongoing delinquent accounts.
+
+Background Checks and Hiring
+
+Many employers run background checks that include credit history, particularly for positions involving financial responsibilities, security clearances, or access to sensitive information. Here is what they can and cannot do:
+
+What Employers Can See
+
+That you filed for bankruptcy
+
+Which chapter you filed under
+
+Whether the case was dismissed or discharged
+
+The filing date
+
+What Employers Cannot Legally Do
+
+Government employers: Cannot use bankruptcy as the sole basis for any employment decision, including hiring
+
+Private employers (current job): Cannot fire you solely because of the bankruptcy filing
+
+Any employer: Must comply with Fair Credit Reporting Act requirements -- they must get your written consent before pulling credit, and must give you a copy of the report and a chance to dispute it before taking adverse action
+
+The Gray Area for Private Hiring
+
+As noted above, many courts have held that Section 525(b) does not prevent private employers from refusing to hire based on a bankruptcy filing. If you are a job applicant and a private employer asks about bankruptcy or runs a credit check, the employer may legally consider it in their hiring decision in most jurisdictions.
+
+However, some states have enacted additional protections. For example, several states restrict when and how employers can use credit reports in hiring decisions. Check your state's laws for additional protections beyond the federal baseline.
+
+Professional Licenses and Government Benefits
+
+Section 525(a) broadly protects against discrimination by government units, which includes:
+
+Professional licenses -- bar admission, medical licenses, real estate licenses, and similar state-issued credentials cannot be denied solely based on bankruptcy
+
+Government contracts -- a government agency cannot refuse to do business with you solely because of a bankruptcy filing
+
+Student loans -- the Department of Education cannot deny student loan eligibility based on a prior bankruptcy
+
+Public housing -- a public housing authority cannot deny housing solely based on bankruptcy
+
+Driver's license -- cannot be revoked solely because of a bankrupted debt (relevant in some states that suspend licenses for unpaid judgments from accidents)
+
+What You Can Do
+
+Monitor Your Credit Reports
+
+After dismissal, check all three credit reports (Equifax, Experian, TransUnion) to ensure the bankruptcy is reported accurately as "dismissed" rather than "discharged" or any other incorrect status. Dispute any errors under the Fair Credit Reporting Act. You can get free reports at annualcreditreport.com.
+
+Rebuild Your Credit
+
+Since a dismissed bankruptcy leaves you with all your debt and a negative credit record, focus on stabilizing your finances. Pay down what you can, negotiate settlements where possible, and consider whether refiling for bankruptcy would give you a better foundation for rebuilding.
+
+Know Your Rights
+
+If you believe an employer terminated you or a government entity denied you a benefit solely because of your bankruptcy filing, consult with an employment attorney or consumer protection attorney. Section 525 violations are actionable, and you may be entitled to damages.
+
+The Bottom Line
+
+A dismissed bankruptcy is an unfortunate outcome -- you get the credit report hit without the debt relief. But federal law does provide meaningful protections against discrimination, especially from government employers and in maintaining your current employment. The most practical step you can take is to resolve the underlying debt situation, whether through refiling for bankruptcy, negotiating with creditors, or other means described in our post-dismissal guide.
+
+Not legal advice. This guide is for general educational purposes only. Employment law varies significantly by state and jurisdiction. Consult with a licensed attorney for advice about your specific situation. Nothing on this site creates an attorney-client relationship.
+
+Related Guides
+
+Bankruptcy Dismissed -- What Now?
+
+Can I File Bankruptcy Again?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Dismissal Rates
+
+Free bankruptcy information guide
+
+dismissalrate.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+© 2026 BankruptcyDismissed.com. Educational resource. Not legal advice.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Home
+Dismissed vs Discharged
+Can I Refile?
+Why Cases Get Dismissed
+What Happens Next
+
+Part of the Open Bankruptcy Project:
+1328f.com ·
+1328f.org ·
+FileBankruptcyAgain.com ·
+BankruptcyDismissed.com
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+You May Also Find Helpful
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Relief from Automatic Stay -- relieffromstay.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+---
+
+## Can an Employer See a Dismissed Bankruptcy?
+Source: https://dismissedbankruptcy.org/employer-see.html
+
+Skip to main content
+
+☰ Menu
+
+Home
+|
+Dismissed vs Discharged
+|
+Can I Refile?
+|
+Reasons for Dismissal
+|
+What Happens Next
+|
+Employer Impact
+|
+Waiting Period
+|
+Can Employers See?
+|
+Eligibility Screener
+
+Can an Employer See a Dismissed Bankruptcy?
+
+Public records, background checks, and your rights under Section 525
+
+Bankruptcy Is a Public Record
+
+All bankruptcy filings -- whether discharged, dismissed, or still pending -- are public records accessible through the federal court system (PACER) and various background check services. A dismissed bankruptcy is no exception. It does not disappear from the public record just because the case did not result in a discharge.
+
+Background Checks
+
+Most employer background checks include a public records search that can surface bankruptcy filings. The dismissed bankruptcy will typically appear as:
+
+The date you filed
+
+The chapter you filed under (7, 13, etc.)
+
+The court where the case was filed
+
+The disposition: "dismissed"
+
+Background check companies pull from PACER, state court records, and credit bureau data. A dismissed bankruptcy stays on your credit report for 7-10 years from the filing date (Chapter 13 dismissed: 7 years; Chapter 7 dismissed: 10 years).
+
+Section 525: Anti-Discrimination Protection
+
+11 U.S.C. Section 525 prohibits certain forms of employment discrimination based on bankruptcy:
+
+Government Employers (Section 525(a))
+
+A governmental unit may not deny employment to, terminate the employment of, or discriminate with respect to employment against a person solely because that person filed bankruptcy or failed to pay a dischargeable debt. This is a strong protection with clear statutory language.
+
+Private Employers (Section 525(b))
+
+A private employer may not terminate the employment of an individual solely because that individual filed bankruptcy. However, courts have split on whether Section 525(b) also prohibits private employers from refusing to hire someone based on a bankruptcy filing. Several circuit courts have held that the statute only covers termination, not hiring decisions, for private employers.
+
+Practical reality: While Section 525 offers some protection, employers rarely state bankruptcy as the reason for an adverse decision. If you suspect discrimination, document everything and consult an employment attorney.
+
+Tips for Job Seekers
+
+Know what shows up: Pull your own credit report and background check before applying so you know what employers will see
+
+Distinguish dismissed from discharged: A dismissed bankruptcy may actually look worse to some employers because it suggests the filing was unsuccessful, while a discharge suggests you addressed your debts
+
+Be prepared to explain: If asked, a brief honest explanation is better than evasion. Most employers care about current financial responsibility, not past difficulties
+
+Government jobs: You have the strongest protection. A dismissed or discharged bankruptcy cannot legally be the basis for denial of government employment
+
+Cross-References
+
+Employer impact overview
+
+Dismissed vs discharged -- Understanding the difference
+
+109g.org -- Filing eligibility after dismissal
+
+canifileagain.org -- Refiling options
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Dismissal Rates
+
+Free bankruptcy information guide
+
+dismissalrate.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Related Guides
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Bankruptcy Denied -- Next Steps
+
+Bankruptcy Hardship Discharge
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+dismissedbankruptcy.org -- Part of the Open Bankruptcy Project
+
+Home
+Dismissed vs Discharged
+Can I Refile?
+Reasons
+What Happens Next
+Employer Impact
+Waiting Period
+Can Employers See?
+
+Network:
+1328f.com --
+1328f.org --
+109g.org --
+canifileagain.org --
+filebankruptcyagain.com --
+dismissedbankruptcy.org
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice about your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Relief from Automatic Stay -- relieffromstay.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+---
+
+## Dismissed Bankruptcy: What Happens Next? Free Guide [2026]
+Source: https://dismissedbankruptcy.org/
+
+🌐 Esta pagina esta disponible en Espanol
+
+Skip to main content
+
+dismissedbankruptcy.org
+☰
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+relieffromstay.org
+dischargeinjunction.org
+dischargeinjunction.com
+523a.org
+109g.org
+727a8.org
+727a8.com
+prosedebtors.org
+whatischapter7.com
+whatischapter7.org
+chapter13plan.org
+lienstripping.org
+nondischargeable.org
+bankruptcyfreshstart.org
+reaffirmationagreement.org
+dischargebar.org
+section1328.org
+bankruptcytaxes.org
+dismissedbankruptcy.org
+serialfiler.org
+codebtorstay.org
+bankruptcyhardship.org
+voluntarypetition.org
+
+Part of the Open Bankruptcy Project -- 75+ free domains, 2,000+ pages, $0 cost
+
+Dismissed Bankruptcy -- Your Complete Filing Guide for 2026
+
+Understanding your options after a bankruptcy case is dismissed
+
+Network › Dismissed Bankruptcy -- What Now?
+
+Quick Answer
+
+If your bankruptcy was dismissed, creditors can resume collection, garnishment, and foreclosure. You may be able to refile, but timing matters. Section 109(g) may impose a 180-day wait, and Section 362(c) may limit your automatic stay protection in bankruptcy protection if you refile within one year. See canifileagain.org for refiling rules.
+
+About This Site
+
+A dismissed bankruptcy case is one that ends without a discharge. Dismissal can happen for many reasons: failure to make plan payments, failure to file required documents, failure to attend the what to expect at the 341 meeting, or voluntary dismissal by the debtor. When a case is dismissed, the automatic stay protection in bankruptcy ends, and creditors can resume collection activity.
+
+This site will explain what happens after dismissal, what your options are, and how dismissal affects future filings. We will cover the 180-day refiling bar under Section 109(g), the reduced automatic stay provisions for repeat filers under Section 362(c)(3) and (c)(4), and strategies for debtors who need to refile after a dismissal.
+
+We will also address the most common reasons cases get dismissed, how to avoid dismissal in a new case, and the critical distinction between dismissal with prejudice (which may bar refiling entirely) and dismissal without prejudice (which typically allows refiling after addressing the original deficiency). If your case was dismissed and you want to start over, see our guide on how to file bankruptcy.
+
+Part of the Open Bankruptcy Project -- a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
+
+Frequently Asked Questions
+
+What happens if my bankruptcy case is dismissed?
+
+Dismissal ends your bankruptcy case without a discharge. The automatic stay lifts, and creditors can resume collection. Your debts remain, and any property of the estate reverts to pre-filing status. You may be able to refile, but timing restrictions under Section 109(g) may apply.
+
+Can I refile after a bankruptcy dismissal?
+
+Usually yes, but timing matters. If dismissed for willful failure to obey court orders or after a creditor filed a stay relief motion, Section 109(g) bars refiling for 180 days. Even without that bar, refiling within one year limits your automatic stay under Section 362(c)(3).
+
+What is the 180-day bar after dismissal?
+
+Section 109(g) of the Bankruptcy Code prevents you from filing any new bankruptcy case for 180 calendar days if your prior case was dismissed for willful failure to obey court orders or if you voluntarily dismissed after a creditor sought stay relief. This is a filing bar, not just a discharge bar.
+
+Check Your Bankruptcy Discharge Eligibility
+
+Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy discharge.
+
+Discharge Screener
+Research Platform
+
+Explore Dismissal Topics
+
+Dive deeper into what happens when a bankruptcy case is dismissed:
+
+Can I Refile After Dismissal?
+
+Dismissed vs. Discharged
+
+How Dismissal Affects Employment
+
+Common Reasons for Dismissal
+
+What Happens After Dismissal
+
+Related Guides
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Bankruptcy Denied -- Next Steps
+
+Behind on Rent -- Bankruptcy Options
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+The 180-Day Filing Bar -- When you must wait before filing again under Section 109(g)
+
+Serial Filing Limits -- Automatic stay limits and filing bars for repeat filers
+
+The Automatic Stay -- How Section 362 stops creditor collection the moment you file
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Dismissal Rates
+
+Free bankruptcy information guide
+
+dismissalrate.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Your Next Questions
+
+Real users ask these next -- we built the answers.
+
+Rebuild Your Credit
+
+Steps to improve your score after discharge
+
+rebuildcreditafterbankruptcy.com →
+
+File Again?
+
+Refiling waiting periods for every chapter combination
+
+filebankruptcyagain.com →
+
+Can I Keep My Car?
+
+Reaffirmation agreements and ride-through options
+
+keepmycarinbankruptcy.com →
+
+Nondischargeable Debts
+
+Debts that survive bankruptcy under Section 523(a)
+
+523a.org →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+📖 Bankruptcy Glossary -- 61 terms explained
+
+Filing in Your State?
+
+Exemptions vary dramatically by state. Check what you can protect.
+
+Browse Your State's Exemptions →
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+You May Also Find Helpful
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+relieffromstay.org
+dischargeinjunction.org
+dischargeinjunction.com
+523a.org
+109g.org
+727a8.org
+727a8.com
+prosedebtors.org
+whatischapter7.com
+whatischapter7.org
+chapter13plan.org
+lienstripping.org
+nondischargeable.org
+bankruptcyfreshstart.org
+reaffirmationagreement.org
+dischargebar.org
+section1328.org
+bankruptcytaxes.org
+dismissedbankruptcy.org
+serialfiler.org
+codebtorstay.org
+bankruptcyhardship.org
+voluntarypetition.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Protecting Yourself After Bankruptcy Dismissal
+Source: https://dismissedbankruptcy.org/protect-yourself.html
+
+Skip to main content
+
+☰ Menu
+
+Home
+|
+Dismissed vs Discharged
+|
+Can I Refile?
+|
+Reasons for Dismissal
+|
+What Happens Next
+|
+Employer Impact
+|
+Waiting Period
+|
+Can Employers See?
+|
+Eligibility Screener
+
+Protecting Yourself After Bankruptcy Dismissal
+
+What creditors can do after dismissal and how to respond
+
+The Stay Is Gone
+
+When your bankruptcy case is dismissed, the automatic stay under Section 362 terminates immediately. This means all the protections you had during the case -- against garnishment, foreclosure, repossession, and lawsuits -- are gone. Creditors can resume collection activity the moment the dismissal order is entered.
+
+What Creditors Can Do After Dismissal
+
+Resume wage garnishment: If garnishment was in place before filing, creditors can restart it. If a judgment was entered but garnishment had not started, they can initiate it.
+
+Proceed with foreclosure: If your home was in foreclosure, the bank can pick up where it left off.
+
+Repossess vehicles: Auto lenders can repossess your vehicle if you are in default.
+
+File or continue lawsuits: Creditors can sue you or continue lawsuits that were paused by the stay.
+
+Send to collections: Collection calls and letters resume.
+
+Immediate Steps to Take
+
+Contact your most aggressive creditors: If you have a mortgage in default or a car payment behind, reach out immediately to discuss workout options, forbearance, or repayment plans.
+
+Review your budget: If the bankruptcy was dismissed for failure to make plan payments, identify why and whether a modified plan might work.
+
+Consider refiling: If the 109(g) bar does not apply, you may be able to refile immediately. But be aware of the reduced stay protections under Section 362(c). See our waiting period guide.
+
+Explore non-bankruptcy options: Debt management plans, debt settlement, or negotiated workouts may be appropriate depending on your situation.
+
+Protect exempt property: Even outside of bankruptcy, certain property may be protected from creditors under state exemption laws (homestead, retirement accounts, etc.).
+
+Free eligibility check: Use the discharge eligibility screener at 1328f.com to verify whether timing bars affect your ability to refile and receive a discharge.
+
+Cross-References
+
+What happens after dismissal
+
+Can I refile?
+
+Waiting period after dismissal
+
+dismissalrate.org -- Recovery options
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Dismissal Rates
+
+Free bankruptcy information guide
+
+dismissalrate.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Related Guides
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Bankruptcy Denied -- Next Steps
+
+Bankruptcy Hardship Discharge
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+dismissedbankruptcy.org -- Part of the Open Bankruptcy Project
+
+Home
+Dismissed vs Discharged
+Can I Refile?
+Reasons
+What Happens Next
+Employer Impact
+Waiting Period
+Can Employers See?
+
+Network:
+1328f.com --
+1328f.org --
+109g.org --
+canifileagain.org --
+filebankruptcyagain.com --
+dismissedbankruptcy.org
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice about your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Relief from Automatic Stay -- relieffromstay.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+---
+
+## Why Bankruptcy Cases Get Dismissed -- Common Causes
+Source: https://dismissedbankruptcy.org/reasons-for-dismissal.html
+
+Skip to main content
+
+☰ Menu
+
+Home
+|
+Dismissed vs Discharged
+|
+Can I Refile?
+|
+Reasons for Dismissal
+|
+What Happens Next
+|
+Employer Impact
+|
+Eligibility Screener
+
+Why Bankruptcy Cases Get Dismissed
+
+Common causes and how to avoid them
+
+Not legal advice. This site provides general educational information about bankruptcy law. Consult with a licensed attorney for advice about your specific situation.
+
+Every year, hundreds of thousands of bankruptcy cases are dismissed before the debtor receives a discharge. In Chapter 13 cases, the national dismissal rate ranges from 40% to over 60% depending on the district. Understanding why cases get dismissed can help you avoid the same fate if you need to refile, or help you identify whether your attorney bears responsibility for the outcome.
+
+1. Failure to File Required Documents
+
+This is the single most common reason for dismissal, especially in the early stages of a case. When you file for bankruptcy, the court requires a set of documents within strict deadlines:
+
+Schedules A through J -- detailed lists of your assets, debts, income, and expenses
+
+Statement of Financial Affairs -- questions about your financial history
+
+Chapter 13 plan -- your proposed repayment plan (Chapter 13 only)
+
+Tax returns -- typically the most recent two years
+
+Pay stubs -- usually the last six months
+
+Credit counseling certificate -- proof you completed the required pre-filing course
+
+If your attorney filed a "bare petition" -- just the initial petition without the schedules -- the court typically gives 14 days to file the remaining documents. Miss that deadline, and the court will dismiss your case, often without a hearing.
+
+Whose fault is this? If you provided all information to your attorney and they failed to prepare and file the documents on time, the responsibility is theirs. This is one of the most common forms of attorney negligence in bankruptcy. Research from the Open Bankruptcy Project shows that certain firms file bare petitions at rates far above the district average, leading to predictable dismissals.
+
+2. Missed Chapter 13 Plan Payments
+
+In Chapter 13, you must make monthly payments to the trustee according to your confirmed plan. This typically lasts three to five years. If you fall behind on payments, the trustee will file a motion to dismiss your case.
+
+Courts generally provide some grace period and an opportunity to cure missed payments, but repeated defaults will result in dismissal. Common reasons for missed payments include:
+
+Job loss or reduced hours
+
+Unexpected medical expenses
+
+The plan payment was unrealistically high from the start
+
+Failure to adjust the plan after a change in circumstances
+
+If your situation changes, talk to your attorney immediately about a plan modification. Waiting until the trustee files a motion to dismiss makes it much harder to save your case.
+
+3. Failing the Means Test
+
+Chapter 7 requires that your income falls below a certain threshold relative to your state's median income, or that your disposable income after allowed expenses is minimal. This is the "means test" under Section 707(b).
+
+If the U.S. Trustee or a creditor determines that your income is too high for Chapter 7, they can file a motion to dismiss or convert your case. If the motion is granted and you do not convert to Chapter 13, the case is dismissed.
+
+How to avoid this: A competent attorney should run the means test before filing your case. If you do not qualify for Chapter 7, the attorney should advise you to file Chapter 13 instead. Filing Chapter 7 when you do not qualify is a sign of poor case preparation.
+
+4. Missing the Section 341 Meeting of Creditors
+
+Every bankruptcy case requires a meeting of creditors under Section 341 of the Bankruptcy Code. You must attend this meeting, typically held about 30 to 45 days after filing. The trustee (and any creditors who choose to attend) will ask you questions under oath about your finances.
+
+If you fail to attend the 341 meeting, the court will typically reschedule it once. Fail to attend the rescheduled meeting, and the case is dismissed.
+
+Legitimate reasons for missing: Medical emergency, lack of transportation, employer conflict, or simple lack of notice. If you have a legitimate reason, contact your attorney immediately to request a continuance before the meeting date passes.
+
+5. Failure to Complete Credit Counseling
+
+The Bankruptcy Abuse Prevention and Consumer Protection Act (BAPCPA) of 2005 requires two educational courses:
+
+Pre-filing credit counseling -- must be completed within 180 days before filing
+
+Pre-discharge financial management course -- must be completed before discharge can be entered
+
+Failure to complete the pre-filing course can result in dismissal. Failure to complete the post-filing course prevents discharge, which in Chapter 13 effectively leads to dismissal. Both courses are available online for approximately $15 to $50 each and take about 60 to 90 minutes.
+
+6. Bad Faith Filing
+
+A court can dismiss a bankruptcy case if it finds the case was filed in bad faith. This is more subjective than the other grounds and involves the court's assessment of your intentions. Factors that suggest bad faith include:
+
+Filing solely to delay a foreclosure or eviction with no intention of completing a plan
+
+Concealing assets or income
+
+Filing multiple cases in quick succession (serial filing)
+
+Making false statements on your petition or schedules
+
+Incurring large debts immediately before filing
+
+Bad faith findings can carry serious consequences beyond dismissal, including bars on refiling and potential criminal referral for bankruptcy fraud.
+
+7. Failure to Maintain Insurance or Make Direct Payments
+
+In Chapter 13, your plan may require you to maintain insurance on vehicles or real property, make direct mortgage payments, or make adequate protection payments. Failure to do so can trigger a motion to dismiss from the trustee or a creditor.
+
+8. Unfeasible Chapter 13 Plan
+
+A Chapter 13 plan must be feasible -- the debtor must be able to actually make the proposed payments. If the court determines that the plan is not feasible (your expenses exceed your income, the payment amount is unrealistic, or there is no disposable income to fund the plan), it will deny confirmation. Without a confirmed plan, the case will eventually be dismissed.
+
+An experienced bankruptcy attorney should evaluate plan feasibility before filing. If the numbers do not work, the attorney should recommend alternatives rather than filing a case destined to fail.
+
+How to Protect Yourself
+
+Before Filing
+
+Research your attorney's track record using public data
+
+Complete credit counseling early -- do not wait until the last minute
+
+Gather all required documents before your attorney files
+
+Make sure the proposed plan payment is realistic for your budget
+
+After Filing
+
+Read and respond to every court notice immediately
+
+Make every plan payment on time
+
+Attend the 341 meeting -- no exceptions
+
+Complete the post-filing financial management course
+
+Notify your attorney immediately if your financial situation changes
+
+Request plan modifications proactively, not after you have already fallen behind
+
+If your case was dismissed and you believe your attorney's negligence was responsible, read our guide on what to do after dismissal and consider consulting with a legal malpractice attorney.
+
+Not legal advice. This guide is for general educational purposes only. Consult with a licensed bankruptcy attorney for advice about your specific situation. Nothing on this site creates an attorney-client relationship.
+
+Related Guides
+
+Bankruptcy Dismissed -- What Now?
+
+Can I File Bankruptcy Again?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Dismissal Rates
+
+Free bankruptcy information guide
+
+dismissalrate.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+© 2026 BankruptcyDismissed.com. Educational resource. Not legal advice.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Home
+Dismissed vs Discharged
+Can I Refile?
+What Happens Next
+Employer Impact
+
+Part of the Open Bankruptcy Project:
+1328f.com ·
+1328f.org ·
+FileBankruptcyAgain.com ·
+BankruptcyDismissed.com
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+You May Also Find Helpful
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Relief from Automatic Stay -- relieffromstay.org
+
+---
+
+## Waiting Period After Dismissed Bankruptcy
+Source: https://dismissedbankruptcy.org/waiting-period.html
+
+Skip to main content
+
+☰ Menu
+
+Home
+|
+Dismissed vs Discharged
+|
+Can I Refile?
+|
+Reasons for Dismissal
+|
+What Happens Next
+|
+Employer Impact
+|
+Waiting Period
+|
+Can Employers See?
+|
+Eligibility Screener
+
+Waiting Period After Dismissed Bankruptcy
+
+Section 109(g) and Section 362(c): timing rules for refiling after dismissal
+
+The 180-Day Bar: Section 109(g)
+
+Under 11 U.S.C. Section 109(g), you may be barred from filing a new bankruptcy case for 180 days after dismissal if either of these conditions applies:
+
+Willful failure to obey court orders or appear before the court in a proper prosecution of the case (Section 109(g)(1))
+
+Voluntary dismissal after a creditor filed a motion for relief from stay (Section 109(g)(2))
+
+If neither condition applies -- for example, if your case was dismissed for missing a filing deadline or failing to provide documents -- the 180-day bar typically does not apply, and you can refile immediately.
+
+Common misconception: Many people believe they must always wait 180 days after any dismissal. That is not true. The 180-day bar is triggered only under the specific circumstances listed in Section 109(g). A simple dismissal for missed plan payments, for example, does not trigger the bar.
+
+Stay Limitations for Repeat Filers: Section 362(c)
+
+Even if Section 109(g) does not bar you from filing, refiling within one year of a dismissal triggers reduced automatic stay protection:
+
+One prior dismissal within 1 year: The automatic stay in your new case expires after 30 days unless you file a motion to extend it (Section 362(c)(3))
+
+Two or more prior dismissals within 1 year: The automatic stay does not go into effect at all. You must file a motion asking the court to impose the stay (Section 362(c)(4))
+
+These stay limitations are separate from and in addition to the 109(g) filing bar. You can be eligible to file but still face reduced stay protection.
+
+Practical Timeline
+
+SituationCan Refile?Stay Protection
+
+Dismissed for missed documentsUsually immediately30-day limit if within 1 year
+
+Dismissed for missed plan paymentsUsually immediately30-day limit if within 1 year
+
+Voluntarily dismissed after relief from stay motionWait 180 days30-day limit if within 1 year
+
+Court found willful failure to complyWait 180 days30-day limit if within 1 year
+
+2+ dismissals in past yearUsually immediately (if no 109(g) bar)No stay at all -- must file motion
+
+Cross-References
+
+109g.org -- Detailed guide to the 180-day filing bar
+
+canifileagain.org -- Can you file bankruptcy again?
+
+Can I refile? -- Guide for dismissed debtors
+
+serialfiler.org -- Repeat filer rules and stay limitations
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Dismissal Rates
+
+Free bankruptcy information guide
+
+dismissalrate.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Related Guides
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Bankruptcy Denied -- Next Steps
+
+Bankruptcy Hardship Discharge
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+dismissedbankruptcy.org -- Part of the Open Bankruptcy Project
+
+Home
+Dismissed vs Discharged
+Can I Refile?
+Reasons
+What Happens Next
+Employer Impact
+Waiting Period
+Can Employers See?
+
+Network:
+1328f.com --
+1328f.org --
+109g.org --
+canifileagain.org --
+filebankruptcyagain.com --
+dismissedbankruptcy.org
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice about your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+---
+
+## What Happens After Your Bankruptcy Is Dismissed?
+Source: https://dismissedbankruptcy.org/what-happens-next.html
+
+Skip to main content
+
+☰ Menu
+
+Home
+|
+Dismissed vs Discharged
+|
+Can I Refile?
+|
+Reasons for Dismissal
+|
+What Happens Next
+|
+Employer Impact
+|
+Eligibility Screener
+
+What Happens After Your Bankruptcy Is Dismissed?
+
+Immediate consequences and your options going forward
+
+Not legal advice. This site provides general educational information about bankruptcy law. Consult with a licensed attorney for advice about your specific situation.
+
+When a bankruptcy case is dismissed, the legal protections you had during the case disappear. Creditors regain their full collection rights, and you are back to owing every dollar you owed before you filed. This page explains what happens immediately and what you can do about it.
+
+Immediate Consequences
+
+The Automatic Stay Is Lifted
+
+The automatic stay under Section 362(a) terminates upon dismissal. This is the most immediate and impactful consequence. Every protection the stay provided is gone:
+
+Wage garnishment -- creditors with existing judgments can immediately garnish your wages
+
+Foreclosure -- your mortgage lender can resume or initiate foreclosure proceedings
+
+Repossession -- secured creditors can repossess vehicles and other collateral
+
+Lawsuits -- any litigation paused by the stay can resume
+
+Collection calls and letters -- creditors and collectors can contact you again
+
+Bank account levies -- creditors with judgments can freeze or levy your accounts
+
+Utility disconnection -- utility companies can proceed with shutoff
+
+Your Debts Are Unchanged
+
+Every debt you listed in your bankruptcy schedules still exists in full. No debt is reduced, eliminated, or modified by a dismissal. Interest and fees that were suspended during the case may resume accruing (depending on the creditor and the type of debt).
+
+Payments to the Trustee
+
+If you were in a Chapter 13 case and made payments to the trustee, those payments are typically returned to you after dismissal, minus any administrative costs and amounts already distributed to creditors. This process can take several weeks or months. Contact your trustee or your attorney for the specific timeline in your district.
+
+Attorney Fees
+
+Fees you paid your bankruptcy attorney are generally not refundable after dismissal. However, if your attorney's negligence caused the dismissal (for example, by failing to file required documents), you may have grounds to request fee disgorgement from the court or pursue a legal malpractice claim. These are separate proceedings that require their own legal strategy.
+
+Your Three Options After Dismissal
+
+Option 1: Refile for Bankruptcy
+
+For many people, the best option is to file a new bankruptcy case. Before you do:
+
+Determine whether you face a 180-day refiling bar under Section 109(g)
+
+Understand that refiling within one year means reduced automatic stay protection under Section 362(c)(3)
+
+Fix whatever caused the first dismissal -- gather documents, set up realistic payments, hire a different attorney if needed
+
+Check your eligibility for discharge under the various time bars
+
+If time is on your side, waiting more than one year to refile gives you full automatic stay protection in the new case.
+
+Option 2: Negotiate Directly with Creditors
+
+Without the structure of a bankruptcy case, you can still negotiate with creditors on your own or through a debt settlement company. Options include:
+
+Lump-sum settlement -- offer a one-time payment for less than the full balance. Creditors sometimes accept 30% to 60% of the outstanding debt, particularly on unsecured debts.
+
+Hardship payment plan -- negotiate reduced monthly payments directly with each creditor.
+
+Mortgage modification -- if foreclosure is the primary concern, contact your mortgage servicer about loss mitigation options.
+
+Debt management plan -- work with a nonprofit credit counseling agency to consolidate payments at reduced interest rates.
+
+Be cautious with for-profit debt settlement companies. Research them thoroughly before paying any fees, and understand that settled debt may be reported as taxable income on IRS Form 1099-C.
+
+Option 3: Do Nothing (Assessment Period)
+
+If your debts are primarily unsecured (credit cards, medical bills, personal loans) and you have no assets that creditors can seize, doing nothing may be a viable temporary strategy while you assess your situation. Creditors cannot take what you do not have.
+
+However, doing nothing carries risks:
+
+Debts continue accruing interest and fees
+
+Creditors may sue and obtain judgments
+
+Judgments can lead to wage garnishment and bank levies
+
+Your credit continues to deteriorate
+
+The statute of limitations on debt collection varies by state (typically 3 to 10 years)
+
+If Your Attorney Caused the Dismissal
+
+If your case was dismissed because your attorney failed to file documents, missed deadlines, did not prepare your case properly, or otherwise neglected their duties, you have potential remedies:
+
+Fee Disgorgement
+
+You can file a motion in the bankruptcy court asking the judge to order your attorney to return some or all of the fees you paid. Bankruptcy courts have broad authority over attorney fees under Section 329 and Bankruptcy Rule 2017. The court can order fee reduction or full disgorgement if the fees were excessive or the services were inadequate.
+
+Legal Malpractice Claim
+
+If your attorney's negligence caused the dismissal and you suffered damages as a result (for example, you lost your home to foreclosure because the case was dismissed), you may have a legal malpractice claim. Consult with a legal malpractice attorney in your state.
+
+State Bar Complaint
+
+You can file a complaint with your state's attorney disciplinary authority. This does not directly recover money for you, but it creates a record of the attorney's conduct and may result in disciplinary action. Check your state bar association's website for the complaint process.
+
+Check Their Track Record
+
+Use public PACER data to check your attorney's overall dismissal rate compared to other attorneys in your district. If their dismissal rate is significantly above the district average, that pattern may support your claim that their performance was substandard.
+
+Protecting Your Most Critical Assets
+
+If you are facing imminent loss of essential assets after dismissal, prioritize accordingly:
+
+Home. If foreclosure is imminent, contact your mortgage servicer about loss mitigation, or consult an attorney about refiling bankruptcy with a stay extension motion.
+
+Vehicle. If repossession is likely, contact the lender about reinstatement or catch-up payments. In some states, you have a right to cure the default even outside of bankruptcy.
+
+Wages. If garnishment is active, refiling bankruptcy (with the automatic stay) can stop it immediately. Consult an attorney about timing.
+
+Utilities. Contact the utility company about payment plans. Many states have protections against disconnection for low-income households.
+
+The key takeaway: a dismissal is not the end. It is a setback, but you have options. The sooner you assess your situation and act, the better your chances of protecting what matters most.
+
+Not legal advice. This guide is for general educational purposes only. Your situation depends on your specific facts and your state's laws. Consult with a licensed bankruptcy attorney for advice about your options. Nothing on this site creates an attorney-client relationship.
+
+Related Guides
+
+Bankruptcy Dismissed -- What Now?
+
+Can I File Bankruptcy Again?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Dismissal Rates
+
+Free bankruptcy information guide
+
+dismissalrate.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+© 2026 BankruptcyDismissed.com. Educational resource. Not legal advice.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Home
+Dismissed vs Discharged
+Can I Refile?
+Why Cases Get Dismissed
+Employer Impact
+
+Part of the Open Bankruptcy Project:
+1328f.com ·
+1328f.org ·
+FileBankruptcyAgain.com ·
+BankruptcyDismissed.com
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+You May Also Find Helpful
+
+Relief from Automatic Stay -- relieffromstay.org
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
