@@ -5,15 +5,16 @@
 dismissedbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- My Bankruptcy Was Dismissed -- Can I File Again?: https://dismissedbankruptcy.org/can-i-refile.html
-- Dismissed vs Discharged in Bankruptcy -- The Critical Difference: https://dismissedbankruptcy.org/dismissed-vs-discharged.html
+- My Bankruptcy Was Dismissed - Can I File Again?: https://dismissedbankruptcy.org/can-i-refile.html
+- Dismissed vs Discharged in Bankruptcy - The Critical Difference: https://dismissedbankruptcy.org/dismissed-vs-discharged.html
 - Does a Dismissed Bankruptcy Affect My Job?: https://dismissedbankruptcy.org/employer-impact.html
 - Can an Employer See a Dismissed Bankruptcy?: https://dismissedbankruptcy.org/employer-see.html
 - Dismissed Bankruptcy: What Happens Next? Free Guide: https://dismissedbankruptcy.org/
 - Protecting Yourself After Bankruptcy Dismissal: https://dismissedbankruptcy.org/protect-yourself.html
-- Why Bankruptcy Cases Get Dismissed -- Common Causes: https://dismissedbankruptcy.org/reasons-for-dismissal.html
+- Why Bankruptcy Cases Get Dismissed - Common Causes: https://dismissedbankruptcy.org/reasons-for-dismissal.html
 - Waiting Period After Dismissed Bankruptcy: https://dismissedbankruptcy.org/waiting-period.html
 - What Happens After Your Bankruptcy Is Dismissed?: https://dismissedbankruptcy.org/what-happens-next.html
+- Privacy Policy: https://dismissedbankruptcy.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
